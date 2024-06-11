@@ -4,7 +4,7 @@
 <br />
 
 ###  Minhas Skills
-<img align="left" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minitab/minitab-plain.svg">
+<img align="left" height="32" src="https://img.icons8.com/?size=100&id=21219&format=png&color=000000">
 <img align="left" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> 
 <img align="left" height="32" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"> 
 <img align="left" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
