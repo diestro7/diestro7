@@ -24,7 +24,7 @@ Este repositório é um reflexo da minha jornada de aprendizado.
 <p align="left">
   
   <a href="mailto:diegodiestro@outlook.com" title="Outlook">
-  <img src="https://img.shields.io/badge/-Outlook-white?style=for-flat-square&logo=microsoft-outlook&logoColor=007BFF&link=mailto:diegodiestro@outlook.com" alt="Outlook"/>
+  <img src="https://img.shields.io/badge/-Outlook-white?style=flat-square&logo=microsoft-outlook&logoColor=007BFF&link=mailto:diegodiestro@outlook.com" alt="Outlook"/>
 </a>
   
   <a href="https://www.linkedin.com/in/diego-soares-0832aba1/" title="LinkedIn">
