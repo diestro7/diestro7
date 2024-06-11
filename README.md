@@ -14,7 +14,7 @@
 
 ### 🧑🏾‍💻 Sobre Mim
 
-Sou um estudante apaixonado por ciência de dados e análise de dados.<br />
+Olá! Meu nome é Diego, e sou um estudante apaixonado por ciência de dados e análise de dados.<br />
 Estou atualmente focado em aprimorar minhas habilidades em SQL, Power BI e Python.<br />
 Este repositório é um reflexo da minha jornada de aprendizado.
 
