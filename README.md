@@ -55,7 +55,7 @@ Aqui você encontrará projetos e relatórios criados no Power BI:
 
 - **Dashboards:** Exemplos de dashboards interativos e visualizações.
 - **Relatórios:** Relatórios detalhados utilizando diferentes fontes de dados.
--  
+ 
 ### Python
 
 Esta seção inclui scripts em Python focados em análise de dados:
