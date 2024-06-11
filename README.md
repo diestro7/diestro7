@@ -3,7 +3,7 @@
 💻 Bem-vindo ao meu repositório de estudos! Aqui, compartilho meu progresso e os projetos que desenvolvi enquanto aprendo SQL, Power BI e Python. Este repositório inclui exemplos práticos e pequenos projetos que me ajudaram a entender e aplicar esses conhecimentos.
 <br />
 
-###  Minhas Skills
+###  🤖 Tecnologias usadas no dia a dia 
 <img align="left" height="32" src="https://img.icons8.com/?size=100&id=21219&format=png&color=000000">
 <img align="left" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> 
 <img align="left" height="32" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"> 
@@ -12,7 +12,7 @@
 <br />
 
 
-### Sobre Mim
+### 🧑🏾‍💻 Sobre Mim
 
 Sou um estudante apaixonado por ciência de dados e análise de dados.<br />
 Estou atualmente focado em aprimorar minhas habilidades em SQL, Power BI e Python.<br />
