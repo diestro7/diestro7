@@ -1,8 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-💻 Bem-vindo ao meu repositório de estudos! Aqui, compartilho meu progresso e os projetos que desenvolvi enquanto aprendo SQL, Power BI e Python. Este repositório inclui exemplos práticos, tutoriais, e pequenos projetos que me ajudaram a entender e aplicar esses conhecimentos.
+💻 Bem-vindo ao meu repositório de estudos! Aqui, compartilho meu progresso e os projetos que desenvolvi enquanto aprendo SQL, Power BI e Python. Este repositório inclui exemplos práticos e pequenos projetos que me ajudaram a entender e aplicar esses conhecimentos.
 
-### Sobre Mim
+## 🚀 Minhas Skills
+<img align="left" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> 
+<img align="left" height="32" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png"> 
+<img align="left" height="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<br />
+
+
+## Sobre Mim
 
 Sou um estudante apaixonado por ciência de dados e análise de dados. Estou atualmente focado em aprimorar minhas habilidades em SQL, Power BI e Python. Este repositório é um reflexo da minha jornada de aprendizado.
 
